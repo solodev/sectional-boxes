@@ -1,5 +1,7 @@
 # sectional-boxes
-Learn how to build sectional boxes with icons, overlay and background images
+Add a pop of branding to your sectional boxes with icons and images unique to your organization.
+
+Sectional boxes can be one of the most direct navigational elements on your website. They often improve user experience by giving website visitors straightforward options to where your website can take them, and they can be enormously helpful in directing your users precisely where you'd want them to go.
 
 ## Tutorial		  
 For detailed instruction's, view Solodev's [Creating Sectional Boxes with Icons and Background Images](https://www.solodev.com/blog/creating-sectional-boxes-with-icons-and-background-images.stml) article.
